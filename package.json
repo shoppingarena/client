@@ -1,0 +1,37 @@
+{
+  "name": "dictionary-client",
+  "version": "0.0.1",
+  "description": "PWA client for dictionary react-base appThe Dictionary client PWA App is a responsive React-based progressive web application that allows users to easily search for and view dictionary entries. With a modern and intuitive user interface, the app is designed to provide a seamless user experience across desktop and mobile devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dictionary",
+    "PWA",
+    "(progressive",
+    "web",
+    "application)",
+    "React",
+    "Responsive",
+    "design",
+    "Payment",
+    "system",
+    "Premium",
+    "features",
+    "Subscription",
+    "Offline",
+    "access",
+    "Caching",
+    "Fast",
+    "loading",
+    "times",
+    "Database",
+    "Expert",
+    "curation",
+    "Customization",
+    "Comprehensive"
+  ],
+  "author": "Jiri Benes <developer@benesjiri.dev>",
+  "license": "MIT"
+}
